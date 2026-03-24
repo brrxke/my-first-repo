@@ -29,7 +29,7 @@
 ## Полезные ресурсы
 
 - [Мой GitHub](https://github.com/bcherny)
-- [GitHub моего кента](https://github.com/oomkilledby2k38)
+- [GitHub моего кента](https://github.com/kputseyeu)
 - [Последняя пройденная машина на THM](https://tryhackme.com/room/zeno)
 
 ---
